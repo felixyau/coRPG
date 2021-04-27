@@ -1,0 +1,20 @@
+Arrow 5 0 a single arrow, has no family.          
+Shield 0 10 a wooden shield, made for blocking.   
+Bolt 25 0 a cool striking bolt, very hot.         
+Key 1 1 a key, kinda useless.                     
+Bucket 0 5 a small bucket, can cover your head.   
+Spear 8 0 a narrow spear, pretty sharp.           
+Locket 5 0 a locket, do not do much.              
+Water 0 3 some water, good for health.            
+Armor 3 20 metal armor, quite cool and useful.    
+Boots 1 5 leather boots, weaker than you think.   
+Sword 10 0 the hero sword, the weak one.          
+Ball 2 0 some balls, they are just there.         
+Meat 0 2 cooked meat, a surprise buffer.          
+Poison 15 0 deadly poison! well, not really.      
+Map 0 1 a map, sadly you cannot read maps.        
+Book 5 5 heavy books, no one reads them.          
+Chains 11 0 long long chains, good stuff.         
+Hammer 12 0 a heavy hammer, really heavy.         
+Knife 7 0 a short knife, a bit too short.         
+Katana 10 0 a long kanata, rusty but classy.      
