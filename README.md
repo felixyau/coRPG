@@ -1,7 +1,6 @@
-# 1340_text-basedGame_gp82
+text-basedGame
 
-Group Number: 82
-Group Members: Yau Lok Hang, Lai Wing Man Jasmine
+By Yau Lok Hang and Lai Wing Man Jasmine
 
 **Description** 
 
